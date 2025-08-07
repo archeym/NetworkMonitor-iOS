@@ -1,3 +1,3 @@
 # NetworkMonitor
 
-A description of this package.
+A good network monitoring tool for iOS networking using SwiftUI.
